@@ -1,0 +1,17 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "authors": [
+    "Jaideep Rajput <Jaideep_Rajput@yahoo.com>"
+  ],
+  "description": "\"Extreme Tech Training\"",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "toastr": "~2.0.1",
+    "angular": "~1.2.15",
+    "angular-resource": "~1.2.15",
+    "angular-route": "~1.2.15"
+  }
+}
